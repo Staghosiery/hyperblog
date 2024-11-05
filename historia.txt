@@ -1,1 +1,2 @@
 esto es un ejemplo de como usar  git desde la terminal de una mac.
+esta es la primera version de este archivo.
