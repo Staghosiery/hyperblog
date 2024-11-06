@@ -11,3 +11,4 @@ antes de hacer un merge vamos a hacer un commit y asi practicar un poco.
 Voy a hacer un commit para practicar un poco mas y asi tener mas experiencia.
 
 voy a poner una ultima linea mas como practica y ejemplo de como hacer un commit.
+Hoy aprendi a usar checkout para volver a una version anterior.
