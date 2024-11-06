@@ -2,6 +2,22 @@ body {
     color: #333;
     text-align: center;
     font-family: "Arial";
+} 
+
+#cabecera {
+    background-color: #5a1414;
+    box-shadow: 0px 0px 10px 0px #000(0,0,0,0.5);
+    color: #fff;
+    font-weight: bold;
+    margin: 0;
+    padding: 10px;
+}
+
+#cabecera  #tagline {
+    color: #fff;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 0;
 }
 
 #contenedor {
@@ -15,4 +31,6 @@ body {
     font-size: 2.5em;
     margin: 0;
 }
+
+#post
 
